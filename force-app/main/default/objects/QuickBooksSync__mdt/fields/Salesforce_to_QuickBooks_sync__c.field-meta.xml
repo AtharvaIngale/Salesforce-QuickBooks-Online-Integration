@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Salesforce_to_QuickBooks_sync__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>For syncing salesforce to QuickBooks</description>
+    <fieldManageability>SubscriberControlled</fieldManageability>
+    <label>Salesforce to QuickBooks sync</label>
+    <type>Checkbox</type>
+</CustomField>

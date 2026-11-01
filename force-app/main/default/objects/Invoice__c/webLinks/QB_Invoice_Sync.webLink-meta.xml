@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>QB_Invoice_Sync</fullName>
+    <availability>online</availability>
+    <displayType>button</displayType>
+    <height>250</height>
+    <linkType>page</linkType>
+    <masterLabel>QB Invoice Sync</masterLabel>
+    <openType>noSidebar</openType>
+    <page>QBInvoice_VF</page>
+    <protected>false</protected>
+</WebLink>

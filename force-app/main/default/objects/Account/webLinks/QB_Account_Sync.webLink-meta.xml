@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>QB_Account_Sync</fullName>
+    <availability>online</availability>
+    <displayType>button</displayType>
+    <height>250</height>
+    <linkType>page</linkType>
+    <masterLabel>QB Account Sync</masterLabel>
+    <openType>noSidebar</openType>
+    <page>QBCustomerSync_VF</page>
+    <protected>false</protected>
+</WebLink>
